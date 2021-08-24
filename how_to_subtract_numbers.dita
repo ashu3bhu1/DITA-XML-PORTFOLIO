@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_subtract_numbers">
+    <title>How to subtract numbers</title>
+    <shortdesc>Here you will find instructions for using subtraction feature of JPS
+        Calculator</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fsc_t3d_sqb">
+            <p>To subtract numbers, you must know what is subtraction is</p>
+        </prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the (-) button</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number</cmd>
+            </step>
+            <step>
+                <cmd>Click on the (=) button</cmd>
+            </step>
+        </steps>
+        <result id="result_gd3_qjd_sqb">
+            <p>The result from subtraction is displayed</p>
+        </result>
+        <example id="example_gjg_vjd_sqb"/>
+    </taskbody>
+</task>
